@@ -1,7 +1,7 @@
 {
   "name": "XBOT",
   "version": "1.0.0",
-  "description": "khusus termux",
+  "description": "Termux only",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -39,5 +39,5 @@
   "bugs": {
     "url": "https://github.com/affisjunianto/botwasap/issues"
   },
-  "homepage": "https://github.com/affisjunianto/botwasap/readme"
+  "homepage": "https://github.com/affisjunianto/botwasap#readme"
 }

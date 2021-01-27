@@ -1,17 +1,12 @@
-pkg update
-pkg upgrade
-pkg install python
-pkg install python2
-pkg install mc
-pkg install tesseract
-pkg install nodejs
+apt update
+apt upgrade
+apt install
+pkg update && pkg upgrade
 pkg install wget
 pkg install ffmpeg
-clear
-npm i -g ytdl
+pkg install nodejs
+pkg install tesseract
 npm i -g cwebp
-npm i node-tesseract-ocr
-npm i got
+npm i -g ytdl 
 npm i
-clear
-echo "[*]udah selesai nih. Tinggal ketik node index.js"
+npm i got
